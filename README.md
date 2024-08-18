@@ -1,5 +1,8 @@
 # frt-static-apps
+
 A website to be hosted by Azure Static Apps for Future Ready Talent Project
+
+(Edit: The link does not work any longer as the account associated with the service has run out of funds.)
 
 # Full process in steps.
 
